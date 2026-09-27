@@ -39,6 +39,13 @@ Developed during a 48-hour team hackathon.
 A machine learning project focused on classifying airline passengers
 based on passenger data, developed in a Jupyter Notebook.
 
+### [University Management App](https://github.com/Taha2053/PFA1-univeristy-management-app)
+A desktop application developed with WinDev to support academic
+administration. Features include secure authentication, role-based
+access control, automated grade calculation, and analytical dashboards.
+Developed as a team academic project.
+
+
 ## Let's Connect
 
 - 🌐 [Portfolio](https://rayhane-aissa.github.io/portfolio1/)
