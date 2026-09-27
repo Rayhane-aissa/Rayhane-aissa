@@ -27,6 +27,17 @@ to support a more accessible learning experience.
 A statistical analysis project exploring the impact of AI in
 education, combining data analysis, a written report, and
 a web application to present findings.
+## More Projects
+
+### [Game Recommender](https://github.com/Rayhane-aissa/game-recommender)
+An AI chatbot prototype that recommends games based on users'
+emotions and preferences. It uses sentiment analysis to support
+personalized recommendations while considering safety preferences.
+Developed during a 48-hour team hackathon.
+
+### [Airline Passenger Classification](https://github.com/Rayhane-aissa/Airline_passenger_classification)
+A machine learning project focused on classifying airline passengers
+based on passenger data, developed in a Jupyter Notebook.
 
 ## Let's Connect
 
