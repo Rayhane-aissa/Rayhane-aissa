@@ -10,22 +10,15 @@ I enjoy building AI applications that turn data into useful tools,
 with experience in computer vision, time-series modeling, and
 generative AI.
 
-## Technical Skills
-
-- **Programming:** Python, SQL, C/C++, Java, MATLAB
-- **Machine Learning:** Scikit-learn, TensorFlow/Keras, XGBoost
-- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
-- **Development & Tools:** Playwright, Streamlit, Git, Jupyter Notebook
-
 ## Collaborative Projects
 
-### Navi · AI-Powered Web Accessibility
+### [Navi · AI-Powered Web Accessibility](https://github.com/malekmimouna/Navi)
 A multi-agent browser extension that helps users interact with
 websites through voice and text. It supports web navigation,
 form filling, and interface adaptations such as text enlargement
 to make online tasks more accessible.
 
-### MindEase · Adaptive Educational Content
+### [MindEase · Adaptive Educational Content](https://github.com/Taha2053/MindEase)
 An AI browser extension designed to adapt educational content
 to different cognitive needs, including dyslexia and ADHD,
 to support a more accessible learning experience.
