@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Rayhane Aissa 👋
 
-<!--
-**Rayhane-aissa/Rayhane-aissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Final-Year Engineering Student | Artificial Intelligence & Machine Learning
 
-Here are some ideas to get you started:
+I'm studying Applied Mathematics and Modeling at ENSIT and currently
+completing an academic exchange at Centrale Méditerranée in Computer
+Science, specializing in Artificial Intelligence and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building AI applications that turn data into useful tools,
+with experience in computer vision, time-series modeling, and
+generative AI.
+
+## Technical Skills
+
+- **Programming:** Python, SQL, C/C++, Java, MATLAB
+- **Machine Learning:** Scikit-learn, TensorFlow/Keras, XGBoost
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Development & Tools:** Playwright, Streamlit, Git, Jupyter Notebook
+
+## Collaborative Projects
+
+### Navi · AI-Powered Web Accessibility
+A multi-agent browser extension that helps users interact with
+websites through voice and text. It supports web navigation,
+form filling, and interface adaptations such as text enlargement
+to make online tasks more accessible.
+
+### MindEase · Adaptive Educational Content
+An AI browser extension designed to adapt educational content
+to different cognitive needs, including dyslexia and ADHD,
+to support a more accessible learning experience.
+
+### [AI Education Impact — Statistics Project](https://github.com/Taha2053/AI-Education-Impact-Statistics-project)
+A statistical analysis project exploring the impact of AI in
+education, combining data analysis, a written report, and
+a web application to present findings.
+
+## Let's Connect
+
+- 🌐 [Portfolio](https://rayhane-aissa.github.io/portfolio1/)
+- 📧 [Email](mailto:a.aissarayhane@gmail.com)
